@@ -1,0 +1,6 @@
+{
+    "sketch": "minicom/app.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM11"
+}

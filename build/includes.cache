@@ -1,0 +1,62 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\IOT\\arduino2\\build\\sketch\\MiniCom.cpp.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "c:\\IOT\\arduino2\\build\\sketch\\MiniCom.cpp.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\IOT\\arduino2\\build\\sketch\\MiniCom.cpp.cpp",
+    "Include": "SimpleTimer.h",
+    "Includepath": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\SimpleTimer"
+  },
+  {
+    "Sourcefile": "c:\\IOT\\arduino2\\build\\sketch\\MiniCom.cpp.cpp",
+    "Include": "Led.h",
+    "Includepath": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\Led"
+  },
+  {
+    "Sourcefile": "c:\\IOT\\arduino2\\build\\sketch\\MiniCom.cpp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\SimpleTimer\\SimpleTimer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\khs\\Documents\\Arduino\\libraries\\Led\\Led.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
